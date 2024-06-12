@@ -1,2 +1,2 @@
-# hoja-de-vida
+# hojadevida
 Mi primer hoja de vida
